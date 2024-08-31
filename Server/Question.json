@@ -1,0 +1,542 @@
+[
+    {
+        "question": "Who is known as the father of Indian space program?",
+        "options": [
+            "Vikram Sarabhai",
+            "APJ Abdul Kalam",
+            "Homi J. Bhabha",
+            "C. N. R. Rao"
+        ],
+        "answer": "Vikram Sarabhai",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "science"
+    },
+    {
+        "question": "What is the chemical symbol for the element discovered by Indian scientist C.V. Raman?",
+        "options": [
+            "Rm",
+            "Cr",
+            "Cn",
+            "Rm"
+        ],
+        "answer": "Rm",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "science"
+    },
+    {
+        "question": "Which Indian scientist was awarded the Nobel Prize in Chemistry in 1965?",
+        "options": [
+            "Venkatraman Ramakrishnan",
+            "C. V. Raman",
+            "A. P. J. Abdul Kalam",
+            "Satyendra Nath Bose"
+        ],
+        "answer": "Venkatraman Ramakrishnan",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "science"
+    },
+    {
+        "question": "Which Indian scientist developed the Green Revolution technology?",
+        "options": [
+            "M. S. Swaminathan",
+            "Vikram Sarabhai",
+            "Homi J. Bhabha",
+            "Satyendra Nath Bose"
+        ],
+        "answer": "M. S. Swaminathan",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "science"
+    },
+    {
+        "question": "Which Indian company is known for its software services and consulting?",
+        "options": [
+            "Tata Consultancy Services",
+            "Infosys",
+            "Wipro",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "technology"
+    },
+    {
+        "question": "Which Indian startup became the first to achieve unicorn status?",
+        "options": [
+            "Flipkart",
+            "Ola",
+            "Paytm",
+            "Zomato"
+        ],
+        "answer": "Flipkart",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "technology"
+    },
+    {
+        "question": "Which Indian tech giant is known for its focus on AI and machine learning?",
+        "options": [
+            "HCL Technologies",
+            "Tech Mahindra",
+            "Infosys",
+            "Tata Consultancy Services"
+        ],
+        "answer": "Tata Consultancy Services",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "technology"
+    },
+    {
+        "question": "What is the name of the Indian operating system developed by ISRO?",
+        "options": [
+            "BharOS",
+            "Aakash OS",
+            "Nava Bharat",
+            "Vikram OS"
+        ],
+        "answer": "BharOS",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "technology"
+    },
+    {
+        "question": "Who was the first Prime Minister of India?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Sardar Patel",
+            "Rajendra Prasad"
+        ],
+        "answer": "Jawaharlal Nehru",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "history"
+    },
+    {
+        "question": "Which Indian leader is known for the Salt March of 1930?",
+        "options": [
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Jawaharlal Nehru",
+            "Bhagat Singh"
+        ],
+        "answer": "Mahatma Gandhi",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "history"
+    },
+    {
+        "question": "Which Indian dynasty is known for its contributions to art and architecture in medieval India?",
+        "options": [
+            "Mughal Dynasty",
+            "Chola Dynasty",
+            "Maurya Dynasty",
+            "Gupta Dynasty"
+        ],
+        "answer": "Mughal Dynasty",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "history"
+    },
+    {
+        "question": "Which Indian emperor is known for spreading Buddhism across Asia?",
+        "options": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Harsha",
+            "Raja Raja Chola"
+        ],
+        "answer": "Ashoka",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "history"
+    },
+    {
+        "question": "Which Indian cricketer is known as the 'Little Master'?",
+        "options": [
+            "Sunil Gavaskar",
+            "Sachin Tendulkar",
+            "Kapil Dev",
+            "Sourav Ganguly"
+        ],
+        "answer": "Sunil Gavaskar",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "sport"
+    },
+    {
+        "question": "Which Indian sportsperson won the gold medal in the 2008 Beijing Olympics?",
+        "options": [
+            "Abhinav Bindra",
+            "Sushil Kumar",
+            "Mary Kom",
+            "Vijender Singh"
+        ],
+        "answer": "Abhinav Bindra",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "sport"
+    },
+    {
+        "question": "Which Indian football club has won the most I-League titles?",
+        "options": [
+            "East Bengal",
+            "Mohun Bagan",
+            "Bengaluru FC",
+            "Kerala Blasters"
+        ],
+        "answer": "Mohun Bagan",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "sport"
+    },
+    {
+        "question": "Which Indian athlete won a medal in the 2016 Rio Olympics?",
+        "options": [
+            "P.V. Sindhu",
+            "Deepa Malik",
+            "Dutee Chand",
+            "Gagan Narang"
+        ],
+        "answer": "P.V. Sindhu",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "sport"
+    },
+    {
+        "question": "Which Indian programming language was developed for business applications?",
+        "options": [
+            "Cobra",
+            "Bharati",
+            "Sanskrit",
+            "TML"
+        ],
+        "answer": "Bharati",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "programming"
+    },
+    {
+        "question": "Which Indian IT company developed the popular 'Zen' AI platform?",
+        "options": [
+            "Tata Consultancy Services",
+            "Infosys",
+            "Wipro",
+            "HCL Technologies"
+        ],
+        "answer": "HCL Technologies",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "programming"
+    },
+    {
+        "question": "What is the latest version of Python released in 2024?",
+        "options": [
+            "Python 3.11",
+            "Python 3.12",
+            "Python 3.10",
+            "Python 3.9"
+        ],
+        "answer": "Python 3.12",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "programming"
+    },
+    {
+        "question": "Which database management system is widely used in India for enterprise applications?",
+        "options": [
+            "MySQL",
+            "Oracle",
+            "PostgreSQL",
+            "MongoDB"
+        ],
+        "answer": "Oracle",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "programming"
+    },
+    {
+        "question": "Which Indian newspaper is known as the 'Oldest English-language newspaper in India'?",
+        "options": [
+            "The Times of India",
+            "The Hindu",
+            "The Telegraph",
+            "The Economic Times"
+        ],
+        "answer": "The Times of India",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "news"
+    },
+    {
+        "question": "Which news channel was launched in India in 1991 and is known for its news coverage?",
+        "options": [
+            "NDTV",
+            "CNN-News18",
+            "Times Now",
+            "India Today"
+        ],
+        "answer": "NDTV",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "news"
+    },
+    {
+        "question": "Who is the current Editor-in-Chief of the Indian news channel 'India Today'?",
+        "options": [
+            "Aroon Purie",
+            "Rajdeep Sardesai",
+            "Arnab Goswami",
+            "Sourabh Sharma"
+        ],
+        "answer": "Aroon Purie",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "news"
+    },
+    {
+        "question": "Which Indian news agency is known for its comprehensive news coverage across the country?",
+        "options": [
+            "PTI",
+            "ANI",
+            "Reuters",
+            "AFP"
+        ],
+        "answer": "PTI",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "news"
+    },
+    {
+        "question": "Which river is the longest in India?",
+        "options": [
+            "Ganges",
+            "Yamuna",
+            "Brahmaputra",
+            "Godavari"
+        ],
+        "answer": "Ganges",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "geography"
+    },
+    {
+        "question": "Which is the largest state in India by area?",
+        "options": [
+            "Uttar Pradesh",
+            "Maharashtra",
+            "Rajasthan",
+            "West Bengal"
+        ],
+        "answer": "Rajasthan",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "geography"
+    },
+    {
+        "question": "Which mountain range forms the northern boundary of India?",
+        "options": [
+            "Himalayas",
+            "Western Ghats",
+            "Aravalli",
+            "Vindhya"
+        ],
+        "answer": "Himalayas",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "geography"
+    },
+    {
+        "question": "Which Indian state has the highest population density?",
+        "options": [
+            "Bihar",
+            "Uttar Pradesh",
+            "West Bengal",
+            "Kerala"
+        ],
+        "answer": "Bihar",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "geography"
+    },
+    {
+        "question": "Which Indian scientist was awarded the Nobel Prize in Physiology or Medicine in 1968?",
+        "options": [
+            "C. V. Raman",
+            "Venkatraman Ramakrishnan",
+            "Satyendra Nath Bose",
+            "A. P. J. Abdul Kalam"
+        ],
+        "answer": "Venkatraman Ramakrishnan",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "biology"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "Skin",
+            "Liver",
+            "Heart",
+            "Lung"
+        ],
+        "answer": "Skin",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "biology"
+    },
+    {
+        "question": "Which Indian city is known for its botanical garden and research on medicinal plants?",
+        "options": [
+            "Bangalore",
+            "Kolkata",
+            "Mumbai",
+            "Delhi"
+        ],
+        "answer": "Bangalore",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "biology"
+    },
+    {
+        "question": "What is the primary function of the red blood cells in humans?",
+        "options": [
+            "Transport oxygen",
+            "Fight infections",
+            "Clot blood",
+            "Digest food"
+        ],
+        "answer": "Transport oxygen",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "biology"
+    },
+    {
+        "question": "Who is the current President of India?",
+        "options": [
+            "Ram Nath Kovind",
+            "Droupadi Murmu",
+            "Pratibha Patil",
+            "A. P. J. Abdul Kalam"
+        ],
+        "answer": "Droupadi Murmu",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "general awareness"
+    },
+    {
+        "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+        "options": [
+            "Bangalore",
+            "Hyderabad",
+            "Chennai",
+            "Pune"
+        ],
+        "answer": "Bangalore",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "general awareness"
+    },
+    {
+        "question": "Which Indian festival is celebrated with the flying of kites?",
+        "options": [
+            "Diwali",
+            "Makar Sankranti",
+            "Holi",
+            "Eid"
+        ],
+        "answer": "Makar Sankranti",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "general awareness"
+    },
+    {
+        "question": "What is the national sport of India?",
+        "options": [
+            "Hockey",
+            "Cricket",
+            "Football",
+            "Kabaddi"
+        ],
+        "answer": "Hockey",
+        "questionType": "MCQ",
+        "isActive": true,
+        "createdAt": "2024-08-26T00:00:00.000Z",
+        "createdBy": "609d1f1b6e1d8c3d4e1b0a6b",
+        "topic": "general awareness"
+    }
+]
